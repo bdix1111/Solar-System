@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+
+.planet-card {
+  text-align: center;
+}
+
+.planet-card img {
+  width: 30%;
+  height: 30%;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: blue;
+  border-radius: 5px;
+}

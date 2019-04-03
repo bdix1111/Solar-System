@@ -1,0 +1,60 @@
+{
+  "planets": [
+    {
+      "id": 1,
+      "name": "Mercury",
+      "img": "https://solarsystem.nasa.gov/system/stellar_items/image_files/2_feature_1600x900_mercury.jpg",
+      "year-length": "88 days",
+      "moons": 0
+    },
+    {
+      "id": 2,
+      "name": "Venus",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuo_fOMviNbsOSquMumtB8JMmJD0Xv_5WTEl1GyBeQmyrr-5Pd",
+      "year-length": "225 days",
+      "moons": 0
+    },
+    {
+      "id": 3,
+      "name": "Earth",
+      "img": "http://www.wallpaperdip.com/wp-content/uploads/2014/08/Planet-Earth-From-Space.jpg",
+      "year-length": "365 days",
+      "moons": 1
+    },
+    {
+      "id": 4,
+      "name": "Mars",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhnNJDqeLWv0FDMwBcaDyyq_6Ssqk9JDI2OVj0CJMexTlZG_d2",
+      "year-length": "687 days",
+      "moons": 2
+    },
+    {
+      "id": 5,
+      "name": "Jupiter",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7olyfMnI4bxWpKRlANAxSEJcodkgmUZJWfbGeqYj4hIouu8V-Ug",
+      "year-length": "12 years",
+      "moons": 79
+    },
+    {
+      "id": 6,
+      "name": "Saturn",
+      "img": "https://solarsystem.nasa.gov/system/stellar_items/image_files/38_saturn_1600x900.jpg",
+      "year-length": "29 years",
+      "moons": 62
+    },
+    {
+      "id": 7,
+      "name": "Uranus",
+      "img": "http://learnaboutspacehere.weebly.com/uploads/3/7/0/6/37060443/8231892_orig.jpg",
+      "year-length": "84 years",
+      "moons": 27
+    },
+    {
+      "id": 8,
+      "name": "Neptune",
+      "img": "https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/news/speaking-of-science/wp-content/uploads/sites/36/2017/08/PIA01492-1.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+      "year-length": "165 years",
+      "moons": 14
+    }
+  ]
+}
